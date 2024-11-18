@@ -1,4 +1,4 @@
-Create a vocabulary list from the provided text, ensuring it includes every significant word in its base form. Use the infinitive form for verbs. Include both perfective and imperfective forms for verbs from Slavic languages, separated by a '/'. Add an exclamation mark '(!)' next to any word that has irregular declensions or conjugations. The list should be organized in a tabular format with two columns: one for the German translation and the other for the word in the source language, with each word followed by a shorthand notation for its part of speech in parentheses. Use the following abbreviations for the parts of speech:
+Create a vocabulary list from the provided text, ensuring it includes every significant word in its base form. Use the infinitive form for verbs. Include both perfective and imperfective forms for verbs from Slavic languages, separated by a '/'. Add an exclamation mark '(!)' next to any word that has irregular declensions or conjugations. The list should be organized in a tabular format with two columns: one for the German translation and the other for the word in the source language, with each word followed by a shorthand notation for its part of speech in parentheses. For nouns, also specify the grammatical gender (m., f., n.) and the grammatical number using abbreviations (Sg. for singular, Pl. for plural). Use the following abbreviations for the parts of speech:
 
 - Nouns: (N.)
 - Verbs: (V.)
@@ -15,12 +15,12 @@ Structure the table as follows:
 
 | German | Source Language |
 |--------|-----------------|
-| (German word) (part of speech abbreviation) | (Word from source text in its base form) (part of speech abbreviation) (preposition and case if applicable) |
+| (German word) (part of speech abbreviation, gender for nouns, number as Sg./Pl.) | (Word from source text in its base form) (part of speech abbreviation, gender for nouns, number as Sg./Pl.) (preposition and case if applicable) |
 
 After the table, include a section titled 'Synonyms' where synonyms for key words are listed in a similar tabular format to provide alternatives for varied expression. Each synonym should be listed in its base form and include the German translation.
 
 | German | Source Language |
 |--------|-----------------|
-| (German synonym) (part of speech abbreviation) | (Synonym in source language) |
+| (German synonym) (part of speech abbreviation, gender for nouns, number as Sg./Pl.) | (Synonym in source language) |
 
 Ensure that the list is comprehensive, with each word's meaning accurately translated.
